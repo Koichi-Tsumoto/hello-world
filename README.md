@@ -13,7 +13,7 @@ How to create a table:
 
 Table Caption | Header Cell | Table Cell
 ------------- | ----------- | ----------
-Uppercase | Uppercase or sentence case | Sentence case
+Uppercase | Uppercase or sentence \r case | Sentence case
 
 | abc | defghi |
 :-: | -----------:
