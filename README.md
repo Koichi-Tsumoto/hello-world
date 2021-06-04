@@ -7,7 +7,15 @@ Practice repository
 ## This is Day 2 with GitHub and Visual Studio Code
 
     What a great day!
-    I can't believe it!
+    I can't believe it
+
+1.  This is step one.
+1.  This is step two.
+
+    This is subsequent step two.
+
+1.  This is step three.
+    * This is step three bullet.    
 
 How to create a table:
 
