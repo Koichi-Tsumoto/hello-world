@@ -17,3 +17,8 @@
 [Arabic Sample](../test/arabic.md)
 
 ![logo](../images/GitHub_logo_2013.svg.jpg)
+
+| Header 1 | Header 2 | Header 3 |
+| --- | --- | --- |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
