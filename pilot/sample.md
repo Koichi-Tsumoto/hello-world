@@ -15,3 +15,5 @@
 1. This is step 3.
 
 [Arabic Sample](../test/arabic.md)
+
+![logo](../images/GitHub_logo_2013.svg.jpg)
